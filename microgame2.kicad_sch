@@ -2472,7 +2472,26 @@
       )
     )
   )
-
+  (sheet (at 67.31 31.0384) (size 40.64 6.35) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 41c9b4c8-6a6f-4174-a2de-ba76aaffb320)
+    (property "Sheetname" "Power2" (at 67.31 19.6084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 67.31 27.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "Foo" input (at 90.17 31.75 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+      (uuid 0c8dd88b-bb45-40b7-9ef3-4f1e63f6cae5)
+    )
+    (instances
+      (project "microgame2"
+        (path "/ebfd9da1-8e1c-4303-a1cc-72875a794180" (page "7"))
+      )
+    )
+  )
   (sheet_instances
     (path "/" (page "1"))
   )
