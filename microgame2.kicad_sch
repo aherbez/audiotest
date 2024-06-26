@@ -2494,7 +2494,7 @@
   )
   (sheet (at 67.31 42.4684 0) (size 40.64 6.35) (fields_autoplaced)
     (stroke (width 0) (type solid))
-    (fill (color 0 0 0 0.0000))
+    (fill (color 178 0 255 1.0000))
     (uuid 41c9b4c8-6a6f-4174-a2de-ba76aaffb320)
     (property "Sheetname" "Power3" (at 67.31 19.6084 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
